@@ -1,0 +1,13 @@
+{
+    "name": "first-flight",
+    "version": "1.0.0",
+    "description": "my first react project",
+    "main": "index.js",
+    "scripts": {
+        "start": "react-scripts start"
+    },
+    "dependencies": {
+        "react": "^19.0.0"
+    },
+    "browserslist": {}
+}
